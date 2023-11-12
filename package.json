@@ -1,0 +1,20 @@
+{
+  "name": "chatserverbyahad",
+  "version": "1.0.0",
+  "description": "A groupchat using node.js and socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "group",
+    "chat"
+  ],
+  "author": "Abdul Ahad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "socket.io": "^2.3.0"
+  }
+}
